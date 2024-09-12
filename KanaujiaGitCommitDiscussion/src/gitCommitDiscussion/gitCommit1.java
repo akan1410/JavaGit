@@ -7,8 +7,10 @@ package gitCommitDiscussion;
 
 /**
  *
- * @author ayushkanaujia
+ * @author S534807(Ayush Kanaujia)
  */
 public class gitCommit1 {
-    
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
 }
